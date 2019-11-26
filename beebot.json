@@ -1,12 +1,12 @@
 [
   {
     "material": {
-      "ambient": [ 0, 0, 1 ],
-      "diffuse": [ 0, 0, 1 ],
+      "ambient": [ 1, 1, 1 ],
+      "diffuse": [ 1, 1, 1 ],
       "specular": [ 1, 1, 1 ],
       "n": 11,
       "alpha": 1.0,
-      "texture": false
+      "texture": "beebody.jpg"
     },
     "vertices": [
       [ 0.06, 0.2, -0.025 ],
@@ -103,12 +103,12 @@
   },
   {
     "material": {
-      "ambient": [ 0, 0, 1 ],
-      "diffuse": [ 0, 0, 1 ],
+      "ambient": [ 1, 1, 1 ],
+      "diffuse": [ 1, 1, 1 ],
       "specular": [ 1, 1, 1 ],
       "n": 11,
       "alpha": 1.0,
-      "texture": false
+      "texture": "beebody.jpg"
     },
     "vertices": [
       [ -0.01, 0.2, -0.025 ],
@@ -307,8 +307,8 @@
   },
   {
     "material": {
-      "ambient": [ 0.824, 0.722, 0.53 ],
-      "diffuse": [ 0.824, 0.722, 0.53 ],
+      "ambient": [ 0, 0, 0 ],
+      "diffuse": [ 0, 0, 0 ],
       "specular": [ 1, 1, 1 ],
       "n": 11,
       "alpha": 1.0,
@@ -409,8 +409,8 @@
   },
   {
     "material": {
-      "ambient": [ 0.824, 0.722, 0.53 ],
-      "diffuse": [ 0.824, 0.722, 0.53 ],
+      "ambient": [ 0, 0, 0 ],
+      "diffuse": [ 0, 0, 0 ],
       "specular": [ 1, 1, 1 ],
       "n": 11,
       "alpha": 1.0,
@@ -511,8 +511,8 @@
   },
   {
     "material": {
-      "ambient": [ 1, 0, 0 ],
-      "diffuse": [ 1, 0, 0 ],
+      "ambient": [ 1, 1, 0 ],
+      "diffuse": [ 1, 1, 0 ],
       "specular": [ 1, 1, 1 ],
       "n": 11,
       "alpha": 1.0,
@@ -613,8 +613,8 @@
   },
   {
     "material": {
-      "ambient": [ 1, 0, 0 ],
-      "diffuse": [ 1, 0, 0 ],
+      "ambient": [ 1, 1, 0 ],
+      "diffuse": [ 1, 1, 0 ],
       "specular": [ 1, 1, 1 ],
       "n": 11,
       "alpha": 1.0,
